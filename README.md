@@ -16,8 +16,12 @@
   
   ##
  
+ 
 
-  <a href = "mailto: fabianasouzaivo@icloud.com"><img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" target="_blank"></a>
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="https://i.pinimg.com/564x/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.jpg" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: fabianasouzaivo@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiana-ivo-souza-16311b10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/fabiana1vo/fabiana1vo/blob/output/github-contribution-grid-snake.svg)
