@@ -21,8 +21,6 @@
   
   ##
  
- 
-
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="https://i.pinimg.com/564x/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.jpg" target="_blank"></a>
   <a href="https://www.instagram.com/fabsfck/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
