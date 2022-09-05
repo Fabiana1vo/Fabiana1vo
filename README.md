@@ -1,5 +1,7 @@
 ## Olá, que bom ter você por aqui! 😃😊
 
+🐘 Estudando PHP 
+
 <div>
 <a href="https://github.com/fabiana1vo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiana1vo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
