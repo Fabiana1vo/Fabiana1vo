@@ -1,8 +1,8 @@
 ## Olá, que bom ter você por aqui! 😃😊
 
-🐘 Estudando PHP 
-😉 Dev Front-end  
-👩‍🦯 Pós-graduanda em UX
+#🐘 Estudando PHP 
+#😉 Dev Front-end  
+#👩‍🦯 Pós-graduanda em UX
 
 <div>
 <a href="https://github.com/fabiana1vo">
