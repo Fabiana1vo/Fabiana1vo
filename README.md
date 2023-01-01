@@ -1,7 +1,9 @@
 ## Olá! 
 
 🐘 Estudando PHP / Laravel 
+
 😉 Dev Front-end
+
 👩‍🦯 Pós-graduanda em User Experience 
 
 <div>
