@@ -4,7 +4,7 @@
 
 😉 Dev Front-end
 
-👩‍🦯 Pós-graduanda em User Experience 
+👩‍🦯 Pós-graduanda em Ux 
 
 <div>
 <a href="https://github.com/fabiana1vo">
