@@ -7,7 +7,7 @@
 👩‍🦯 Pós-graduanda em Ux 
 
 <div>
-<a href="https://github.com/fabiana1vo">
+<a href="https://github.com/Fabiana1vo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiana1vo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana1vo&layout=compact&langs_count=16&theme=dracula"/>
 <div>
