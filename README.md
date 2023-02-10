@@ -10,8 +10,8 @@
 
 <div>
 <a href="https://github.com/Fabiana1vo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiana1vo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&icon_color=FFF&title_color=FFF"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana1vo&layout=compact&langs_count=16&theme=cobalt&icon_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiana1vo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&icon_color=a03234"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana1vo&layout=compact&langs_count=16&theme=cobalt"/>
 <div>
   
 <div style="display: inline_block"><br>
