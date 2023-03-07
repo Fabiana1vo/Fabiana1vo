@@ -7,7 +7,7 @@
 🐼 Ux Design Graduate Student
 
 🗣️ 🇧🇷 - 🇺🇸 - 🇨🇳
-
+<!-- 
 <div>
 <a href="https://github.com/Fabiana1vo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiana1vo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&icon_color=a03234"/> 
@@ -26,7 +26,7 @@
 <img align="center" alt="Fabi-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   <img align="center" alt="Fabi-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"> 
 </div>
-
+ -->
 ##
 
 <div> 
