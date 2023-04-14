@@ -3,12 +3,13 @@
 </h1>
  
 <h1 id="tech-stack">
-<img src="https://slackmojis.com/emojis/11400-among-us-party/download" width="30px"> About:
+<img src="https://slackmojis.com/emojis/12510-kirby_dance/download" width="30px"> About:
 </h1>
 
 <p> 🎓 Graduated in Systems Analysis and Development, currently studying User Experience.</p>
 <p>🎒 Studying Angular.</p>
-<p>😁 I speak Mandarin, Portuguese, and English.</p>
+<p>😁 I speak Mandarin, Portuguese and English.</p>
+<p>👩‍💻 Access my <a href="http://ifabi.net.br/" target="_blank"> <u> PORTFOLIO. </u> </a> </p>
 <p></p>
  
 
@@ -39,7 +40,7 @@
 </p>
 
 
-
+<br>
 <h2 id="contact">
 🦜 Contact
 </h2>
@@ -48,22 +49,23 @@
 <div> 
 
 <a href="https://www.instagram.com/href.abi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fabiana-ivo-souza-16311b10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/fabiana1vo/fabiana1vo/blob/output/github-contribution-grid-snake.svg)
+<a href="https://www.linkedin.com/in/fabiana-ivo-souza-16311b10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
 </div>
+<br>
 
-
- 
+<h2> My GitHub Stats </h2>
 <div>
 <a href="https://github.com/Fabiana1vo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiana1vo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&icon_color=a03234"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana1vo&layout=compact&langs_count=16&theme=cobalt"/>
 <div>
   
- 
+ <br>
+   
+  
+![Snake animation](https://github.com/fabiana1vo/fabiana1vo/blob/output/github-contribution-grid-snake.svg)
  
 ##
 
