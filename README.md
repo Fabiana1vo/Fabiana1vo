@@ -62,7 +62,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana1vo&layout=compact&langs_count=16&theme=cobalt"/>
 <div>
   
- <br> -->
+ <br> 
    
   
 ![Snake animation](https://github.com/fabiana1vo/fabiana1vo/blob/output/github-contribution-grid-snake.svg)
