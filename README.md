@@ -8,7 +8,7 @@
 
 <p> 🎓 Graduated in Systems Analysis and Development, currently studying User Experience.</p>
 <p>🎒 Studying Angular.</p>
-<p>😁 I speak Mandarim, Portuguese and English.</p>
+<p>😁 I speak Mandarin, Portuguese and English.</p>
 <p>👩‍💻 Access my <a href="http://ifabi.net.br/" target="_blank"> <u> PORTFOLIO. </u> </a> </p>
 <p></p>
  
