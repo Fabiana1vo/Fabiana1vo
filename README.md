@@ -65,7 +65,7 @@
  <br> 
    
   
-![Snake animation](https://github.com/fabiana1vo/fabiana1vo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fabiana1vo/Fabiana1vo/blob/output/github-contribution-grid-snake.svg)
  
 ##
 
