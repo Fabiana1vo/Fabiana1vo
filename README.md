@@ -1,5 +1,5 @@
 <h1 align="center" id="header">
-   👋 Hi, I am a front-end developer. 
+   👋 Hi, I am a developer. 
 </h1>
  
 <h1 id="tech-stack">
