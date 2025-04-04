@@ -1,43 +1,57 @@
-<h1 align="center" id="header">
-   👋 Hi, I am a developer. 
-</h1>
- 
-<h1 id="tech-stack">
-<img src="https://slackmojis.com/emojis/12510-kirby_dance/download" width="30px"> About:
+<h1 align="center">
+      <img src="https://slackmojis.com/emojis/2064-blow_up/download" width="40px" align="center"> Hi, I'm a passionate developer!
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<p> 🎓 Graduated in Systems Analysis and Development, currently studying User Experience.</p>
-<p>🎒 Studying Angular.</p>
-<p>😁 I speak Mandarin, Portuguese and English.</p>
-<p>👩‍💻 Access my <a href="http://ifabi.net.br/" target="_blank"> <u> PORTFOLIO. </u> </a> </p>
-<p></p>
- 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Turning+code+into+solutions+✨;UX+Enthusiast+💡;Tech+polyglot+🌎" alt="Typing Animation">
+</div>
 
 
 
-<br>
+---
 
-<h2 id="tech-stack">
-🤖 Tech Stack
-</h2>
+### 🚀 **About Me**
 <p>
 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons//Angular-Dark.svg" width="48" title="Angular">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">  
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" title="Laravel">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48"  title="Figma">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48"  title="Adobe XD">
-       
-       
+   <ul>
+      <li>🎓 Degree in Systems Analysis and Development</li>
+      <li>🌱 Constantly learning and exploring full stack development.</li>
+      <li>🗣️ Fluent in: Portuguese | English | Mandarin</li>
+      <li>🎨 Portfolio: <a href="http://ifabi.net.br/" target="_blank"><img src="https://img.shields.io/badge/-Explore%20my%20work-FF6B6B?style=flat&logo=reactos&logoColor=white"></a></li>
+   </ul>
 </p>
+
+---
+
+### 🛠️ **Tech Stack**
+<div align="center">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,php,cs,angular,html,vite,nestjs,laravel,aws,docker,kubernetes,grafana,git,github,npm,vim,reactivex,regex,wordpress,mongodb,mysql,netlify" />
+  </a>
+</p>
+</div>
+
+---
+
+
+
+### 📌 **Featured Projects**
+<!-- Add your pinned repos here -->
+<!-- ▶️ [Project 1](link) • [Project 2](link) • [Project 3](link) -->
+
+---
+
+### 🌐 **Connect With Me**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youruser)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=youruser&color=ff69b4&style=flat" alt="Profile Views">
+</div>
 
 
 <br>
@@ -62,6 +76,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana1vo&layout=compact&langs_count=16&theme=cobalt"/>
 <div>
   
+![](https://nirzak-streak-stats.vercel.app/?user=Fabiana1vo&theme=dark&hide_border=false)<br/>
  <br> 
    
   
