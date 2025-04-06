@@ -53,15 +53,6 @@
    <img src="https://komarev.com/ghpvc/?username=youruser&color=ff69b4&style=flat" alt="Profile Views">
 </div>
 
-
-
-<div> 
-
-<a href="https://www.instagram.com/href.abi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fabiana-ivo-souza-16311b10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-
-
-</div>
 <br>
  
 <h2> My GitHub Stats </h2>
