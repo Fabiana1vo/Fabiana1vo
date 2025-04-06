@@ -45,19 +45,14 @@
 ---
 
 ### 🌐 **Connect With Me**
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabiana1vo)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiana-ivo-16311b10b](https://www.linkedin.com/in/fabiana-ivo-16311b10b/))
+<a href="https://www.instagram.com/href.abi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fabiana-ivo-souza-16311b10b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=youruser&color=ff69b4&style=flat" alt="Profile Views">
 </div>
 
-
-<br>
-<h2 id="contact">
-🦜 Contact
-</h2>
 
 
 <div> 
